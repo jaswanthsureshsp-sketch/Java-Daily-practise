@@ -1,6 +1,6 @@
 public class Geeks15 {
     public static void main(String[] agrs){
-        check("Admin", "Pass");
+        check("HI", "Pass");
     }
     public static void check(String username, String pass){
         if(username.equals("Admin")){
