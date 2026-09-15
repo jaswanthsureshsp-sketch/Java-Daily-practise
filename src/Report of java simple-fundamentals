@@ -1,0 +1,61 @@
+# Java Fundamentals — 3-Day Mock Test Report
+
+**Coverage:** Day 1, Day 2 & Day 3
+**Assessment:** Interview Style Mock Test
+**Overall Score:** **78.3%**
+
+---
+
+## Marks
+
+| Section            |                 Score |
+| ------------------ | --------------------: |
+| Theory             |              6.5 / 10 |
+| Output & Debugging |                7 / 10 |
+| Coding             |               10 / 10 |
+| **Overall**        | **23.5 / 30 — 78.3%** |
+
+---
+
+## Stronger Areas
+
+* Java basic syntax
+* `if`, `else if`, `else`
+* Logical operators: `&&`, `||`
+* `for` and `while` loops
+* `break` and `continue`
+* Pre-increment and post-increment
+* Compound assignment operators
+* `String` and `char` basics
+* Basic coding implementation
+* Counting and accumulator patterns
+* Modulus-based conditions
+
+---
+
+## Weaker Areas
+
+* `/` vs `%` — quotient vs remainder
+* Integer division vs floating-point division
+* Type casting
+* String concatenation with `+`
+* Careful output tracing
+* Applying conditions to new problems
+* Finding the largest of multiple values
+* Precise technical terminology during interview answers
+
+---
+
+## Conclusion
+
+**Overall Performance: 78.3%**
+
+The fundamentals are **developing well, especially in practical coding**, but some core concepts still need better precision during theory and output-tracing questions.
+
+**Current Status: Not ready for Day 4 yet.**
+
+A short targeted revision of the weaker areas followed by a mini re-test is recommended.
+
+**Target for Day 4: 80–90%+**
+
+Once the target is achieved, progression to **Day 4** will be appropriate.
